@@ -1,6 +1,6 @@
 const textEf = document.querySelector('.text-efect');
 const txt = document.querySelector('h1');
-const walk = 500;
+const walk = 700;
 
 textEf.addEventListener('mousemove' , function(event){
     const {offsetWidth: widht,offsetHeight: height} = textEf;
